@@ -1,2 +1,2 @@
 # tarifodevi
-github egitimi kapsamında yaptıgım tarif sayfasi
+html egitimi kapsamında yaptıgım tarif sayfasi
